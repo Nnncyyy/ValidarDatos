@@ -11,8 +11,11 @@ El formulario no avanza hasta que los datos ingresados sean válidos según los 
 
 Se emplean clases de excepción personalizadas para identificar errores específicos como:
 	•EdadInvalidaException
+ 
 	•PasswordInseguraException
+ 
 	•FormatoInvalidoException
+ 
 	•EmailInvalidoException
 
 El objetivo del proyecto es aplicar el uso de excepciones, validación de entradas del usuario y separación de responsabilidades mediante clases auxiliares.
