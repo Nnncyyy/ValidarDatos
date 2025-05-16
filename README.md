@@ -22,5 +22,33 @@ Se emplean clases de excepción personalizadas para identificar errores específ
 El objetivo del proyecto es aplicar el uso de excepciones, validación de entradas del usuario y separación de responsabilidades mediante clases auxiliares.
 
 # Instrucciones para compilar y ejecutar el programa
+1. Estructura de Archivos Recomendados
+Guarda el código en archivos separados para facilitar la organización:
 
+─ Main.java
+─ Validar.java
+─ EdadInvalidaException.java
+─ EmailInvalidoException.java
+─ FormatoInvalidoException.java
+─ PasswordInseguraException.java
+
+2. Compilar el Programa
+
+Abre una terminal en la carpeta donde guardaste los archivos y ejecuta:
+javac *.java
+Esto compilará todos los archivos .java. Si no hay errores, se generarán archivos .class.
+
+3. Ejecutar el Programa
+
+Después de compilar, ejecuta el programa con:
+java Main
+
+4. Interacción
+
+El programa te pedirá ingresar:
+	1.Edad
+	2.Contraseña
+	3.Correo electrónico
+
+Si alguno de los datos es incorrecto, se mostrará un mensaje de error y se pedirá que lo ingreses nuevamente hasta que sea válido.
 # Capturas de pantalla
