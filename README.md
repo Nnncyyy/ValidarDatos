@@ -62,4 +62,25 @@ El programa te pedirá ingresar:
 	3.Correo electrónico
 
 Si alguno de los datos es incorrecto, se mostrará un mensaje de error y se pedirá que lo ingreses nuevamente hasta que sea válido.
+
+# Clases:
+
+Main:
+__ Contiene el método main() y controla la interacción con el usuario
+
+Validar:
+Clase utilitaria con métodos estáticos para validar edad, contraseña y email
+
+EdadInvalidaException:
+Se lanza si la edad ingresada es menor que 0 o mayor que 120
+
+PasswordInseguraException:
+Se lanza si la contraseña no cumple con requisitos de seguridad
+
+FormatoInvalidoException:
+Se lanza si algún campo está vacío o no cumple un formato básico
+
+EmailInvalidoException:
+Se lanza si el correo electrónico tiene un formato inválido
+
 # Capturas de pantalla
