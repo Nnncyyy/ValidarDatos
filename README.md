@@ -78,3 +78,5 @@ Si alguno de los datos es incorrecto, se mostrará un mensaje de error y se pedi
 •EmailInvalidoException: Se lanza si el correo electrónico tiene un formato inválido
 
 # Capturas de pantalla
+# Planner
+https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.planner/mytasks?tenantId=f94bf4d9-8097-4794-adf6-a5466ca28563&webUrl=https%3A%2F%2Ftasks.teams.microsoft.com%2Fteamsui%2FpersonalApp%2Falltasklists&context=%7B%22subEntityId%22%3A%22%2Fv1%2Fplan%2FswUDlhKRhky0yvek7JolhGQAGAxN%22%7D 
