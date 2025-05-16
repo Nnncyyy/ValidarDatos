@@ -65,16 +65,16 @@ Si alguno de los datos es incorrecto, se mostrará un mensaje de error y se pedi
 
 # Clases:
 
-** Main: Contiene el método main() y controla la interacción con el usuario
+•Main: Contiene el método main() y controla la interacción con el usuario
 
-Validar: Clase utilitaria con métodos estáticos para validar edad, contraseña y email
+•Validar: Clase utilitaria con métodos estáticos para validar edad, contraseña y email
 
-EdadInvalidaException: Se lanza si la edad ingresada es menor que 0 o mayor que 120
+•EdadInvalidaException: Se lanza si la edad ingresada es menor que 0 o mayor que 120
 
-PasswordInseguraException: Se lanza si la contraseña no cumple con requisitos de seguridad
+•PasswordInseguraException: Se lanza si la contraseña no cumple con requisitos de seguridad
 
-FormatoInvalidoException: Se lanza si algún campo está vacío o no cumple un formato básico
+•FormatoInvalidoException: Se lanza si algún campo está vacío o no cumple un formato básico
 
-EmailInvalidoException: Se lanza si el correo electrónico tiene un formato inválido
+•EmailInvalidoException: Se lanza si el correo electrónico tiene un formato inválido
 
 # Capturas de pantalla
