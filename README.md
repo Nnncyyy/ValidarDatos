@@ -65,7 +65,7 @@ Si alguno de los datos es incorrecto, se mostrará un mensaje de error y se pedi
 
 # Clases:
 
--- Main: Contiene el método main() y controla la interacción con el usuario
+** Main: Contiene el método main() y controla la interacción con el usuario
 
 Validar: Clase utilitaria con métodos estáticos para validar edad, contraseña y email
 
