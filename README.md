@@ -10,6 +10,7 @@ El formulario no avanza hasta que los datos ingresados sean válidos según los 
 	•Email: Debe tener un formato válido de correo electrónico (ej. usuario@dominio.com).
 
 Se emplean clases de excepción personalizadas para identificar errores específicos como:
+
 	•EdadInvalidaException
  
 	•PasswordInseguraException
