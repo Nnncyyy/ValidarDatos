@@ -20,3 +20,7 @@ Se emplean clases de excepción personalizadas para identificar errores específ
 	•EmailInvalidoException
 
 El objetivo del proyecto es aplicar el uso de excepciones, validación de entradas del usuario y separación de responsabilidades mediante clases auxiliares.
+
+#Instrucciones para compilar y ejecutar el programa
+
+#Capturas de pantalla
